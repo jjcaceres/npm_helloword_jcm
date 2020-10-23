@@ -1,0 +1,14 @@
+{
+  "name": "npm_helloword_jcm",
+  "version": "1.0.0",
+  "description": "este es mi segundo py",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jose caceres mamani",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
